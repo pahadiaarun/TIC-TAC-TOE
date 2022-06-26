@@ -14,4 +14,11 @@ YOU CAN EXIT THE GAME ANY TIME IN THE PROGRAM.
 
 HOPE YOU WILL LIKE MY PROJECT.
 
-https://drive.google.com/file/d/1PlyfpUMrJm1IeOC95qxCn3BoZJCKUj3L/view?usp=sharing
+Home:
+![image](https://user-images.githubusercontent.com/80753977/175810618-ca6f6612-5d8b-466b-967d-2806e1cefe18.png)
+
+Draw:
+![image](https://user-images.githubusercontent.com/80753977/175810604-3a5c50eb-0719-461a-b99f-14f6d0943deb.png)
+
+Player Won:
+![image](https://user-images.githubusercontent.com/80753977/175810646-b1a3f63c-0edf-432c-8236-71ffbee6c187.png)
